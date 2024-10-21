@@ -20,7 +20,7 @@
 
 ### Studying in this moment:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode,notion,c,&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode,notion,c,postman,springboot&perline=8" />
 </div>
 
 

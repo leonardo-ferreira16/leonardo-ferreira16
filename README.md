@@ -18,9 +18,9 @@
 
  
 
-### Studying in this moment:
+### Focus:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode,notion,c,postman,spring,eclipse,maven,mysql,mongodb,hibernate&perline=8" />
+  <img src="https://skillicons.dev/icons?i=py,raspberrypi,numpy,pandas,fastapi,grafana,sklearn,git,github,vscode,mysql,postgres&perline=8" />
 </div>
 
 

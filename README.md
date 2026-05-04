@@ -20,7 +20,7 @@
 
 ### Focus:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,raspberrypi,numpy,pandas,fastapi,grafana,sklearn,git,github,vscode,mysql,postgres&perline=8" />
+  <img src="https://skillicons.dev/icons?i=py,raspberrypi,fastapi,grafana,sklearn,git,github,vscode,mysql,postgres&perline=8" />
 </div>
 
 
